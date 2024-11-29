@@ -1,6 +1,7 @@
 # Simple YAML for an ESPHome based DSMR reader.
 
-I had to patch the [Arduino DSMR library](https://github.com/wwebers/arduino-dsmr) to make it work with the Aidon 6534 reader. 
+I had to patch the [Arduino DSMR library](https://github.com/wwebers/arduino-dsmr) to make it work with the Aidon 6534 reader. See
+even the issue mentioned for the [original DSMR library](https://github.com/matthijskooijman/arduino-dsmr/issues/47).
 The library resides in another github repository and is a clone of the official Arduino library.
 
 ## Flashing the firmware
